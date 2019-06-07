@@ -1,5 +1,9 @@
 # Python Gmail Mass Mailer
-Follow the inline script instructions
+How does it work?
+-> Create a file containing emails one underneath the other (separated by new lines)
+-> Create a HTML file to send to the emails in the list
+
+Follow the inline script instructions.
 
 ### Notes
 - **I'm not responsible for the bad use of this script.**
